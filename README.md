@@ -45,12 +45,15 @@ The system follows a machine learning pipeline:
 - Training Models - Implements various algorithms for better accuracy.
 - Prediction - Predicts AQI levels using trained models.
   
-## Results & Model Accuracy
-| Model | Accuracy | 
-| Logistic Regression | 44.88% | 
-| Decision Tree | 64.97% | 
-| Random Forest | 74.51% | 
-| Support Vector Machine | 66.85% | 
+   ```markdown
+### **Results & Model Accuracy**
+| Model                     | Accuracy  |
+|---------------------------|-----------|
+| Logistic Regression       | 44.88%    |
+| Decision Tree            | 64.97%    |
+| Random Forest           | 74.51%    |
+| Support Vector Machine   | 66.85%    |
+ 
 
 
 ## Future Enhancements
